@@ -49,9 +49,9 @@ Each folder inside `Saved_Articles/` is automatically generated with the current
 ## ⚙️ How to Run
 
 1️⃣ Clone this repository:
-```bash
+
   git clone https://github.com/LaveKumar/AI_Article_Collector-Web_Scraper.git
-```bash
+
 2️⃣ Navigate into the project directory:
 
   cd AI_Article_Collector-Web_Scraper

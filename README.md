@@ -50,21 +50,21 @@ Each folder inside `Saved_Articles/` is automatically generated with the current
 
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/LaveKumar/AI_Article_Collector-Web_Scraper.git
-
+  git clone https://github.com/LaveKumar/AI_Article_Collector-Web_Scraper.git
+```bash
 2️⃣ Navigate into the project directory:
 
-cd AI_Article_Collector-Web_Scraper
+  cd AI_Article_Collector-Web_Scraper
 
 
 3️⃣ Install dependencies:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
 4️⃣ Run the script:
 
-python3 app.py
+  python3 app.py
 
 
 5️⃣ Check your Saved_Articles/ folder — your freshly scraped AI articles will be there!

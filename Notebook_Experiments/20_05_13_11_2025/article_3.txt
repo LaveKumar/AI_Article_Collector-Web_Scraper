@@ -1,0 +1,39 @@
+Tile: Government using machine learning to help create draft plans for NDIS participants, documents reveal
+
+
+
+
+Exclusive: NDIA defines machine learning as a subset of AI that uses algorithms to learn from data and make decisions or predictions
+Follow our Australia news live blog for latest updates
+Get our breaking news email, free app or daily news podcast
+National Disability Insurance Agency staff are using machine learning to help create draft plans for NDIS participants, documents obtained by Guardian Australia reveal.
+Documents related to NDIA’s use of AI released under freedom of information laws showed 300 staff participated in a six-month trial of Microsoft’s Copilot AI from January last year.
+The agency said Copilot uses generative AI, which was only utilised for the NDIA’s emails, meetings and other non-client-facing tasks – not for participant plans.
+But the documents reveal before the Copilot trial began, the NDIA was already using a form of AI – machine learning – to prepare draft budget plans for participants.
+Machine learning was defined as “a subset of AI that involves the use of algorithms to learn from data and make predictions or decisions without being explicitly programmed”.
+The NDIA stated that NDIS staff made all final decisions on plans and its AI policy document from April 2024 stated that “AI tools must not access participant records” unless otherwise expressly authorised by the chief information officer and authorised under the NDIS Act.
+The briefing document, which was prepared for Senate estimates 2023-24, read: “While machine learning is utilised within draft budgets (or Typical Support Package) for first plans based on key information from a participant’s profiles.
+“The algorithm is only ever used to make recommendations, with decisions made by actual delegates.”
+The documents continued that “the machine learning recommendations are used to assist delegates by speeding up the initial analysis to provide quicker resolutions for participants and improved service”.
+Sign up: AU Breaking News email
+In a report in June 2024, it stated staff had experienced improved productivity in preparing documents and emails by “interpreting NDIA policies and generating a summary of the purpose”.
+NDIA staff overall reported a 20% reduction in task completion times during the Copilot trial and a 90% satisfaction rating – including hearing-impaired staff who reported positively of the use of live-transcription during meetings.
+The report noted difficulties facing the trial included staff concern about the findings of the robodebt royal commission on automated decision-making, and concerns about AI being used to reduce staff numbers.
+The end-of-trial report notes that one of the risks of using Copilot was accidental data exposure, but the agency said it would have robust access controls, regular audits, and training for employees.
+Dr Georgia Van Toorn, from the University of New South Wales, who has written about the impact of algorithmic decision-making in the public sector, said machine-learning and data-driven approaches often fail “in dealing with complexity and nuance”.
+“I don’t think it’s necessarily a bad thing, especially for cases that are relatively straightforward, but … we can’t expect a machine-learning approach to be able to predict the types of support someone will need if that person doesn’t fit neatly into a box. And that’s most people, right?”
+Van Toorn added that machine learning also had a “black box” problem – in which it is hard for humans to know which data points the machine is using, what weight it is giving to them and what biases it is assuming – as it learns and makes decisions.
+“I think there’s an assumption that because it’s data-driven, it’s accurate and personalised … But in this case, I think that the crucial part is the human in the loop needs to understand the limitations [of the technology] … and exercise their discretion and judgment.
+Sign up to Breaking News Australia
+Get the most important news as it breaks
+after newsletter promotion
+“And they need to be properly trained and supported to do so at the right moment.”
+Van Toorn said the fact the NDIA documents explicitly state that decisions on support plans are made by humans was important.
+However, she cautioned that there is a lot of evidence for what researchers call “automation bias” – where people are influenced by AI recommendations when making decisions.
+“There might be time constraints or pressures on planners to get through a certain amount of plans to meet KPIs, or there might be pressures on the NDIA generally to be reducing the number or cost of plans,” she said.
+“The risk is that if it makes their job quicker or easier, a planner might be more likely to go along with the recommended plan, leaning on the algorithm instead of using their own judgment or really listening to NDIS participants.”
+Dr Stevie Lang Howson, an NDIS participant and disability advocate, said his “biggest concern” was whether staff were trained, equipped and given time to “meaningfully make our plans suit our needs as individuals”.
+“These are actually people’s lives. They’re how many times people are able to get to the bathroom … it’s how often you’re able to leave our house, it’s whether the wheelchair that you’re sitting in is too small and causes you pain … These things are so serious and so significant they need to be made with care and transparency and in a way that reflects people’s individual needs.”
+A spokesperson for the NDIA said AI was not used in systems “that interact directly with participants or providers or for any decisions on NDIS funding or eligibility”.
+“Delegates make decisions on a participant’s NDIS funding using information and evidence provided by participants in accordance with the NDIS Act,” the spokesperson said.
+The federal government on Wednesday released a whole-of-government AI plan for use of generative AI in the public service. The finance minister, Katy Gallagher, said the plan would give every public servant access to generative AI tools, training and guidance on how to use the tools safely and responsibly.

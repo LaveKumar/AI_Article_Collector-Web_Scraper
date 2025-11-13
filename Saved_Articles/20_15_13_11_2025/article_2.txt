@@ -1,0 +1,18 @@
+Title: Anthropic announces $50bn plan for datacenter construction in US
+
+
+
+
+AI startup behind Claude chatbot working with London-based Fluidstack on building vast new computing facilities
+Artificial intelligence company Anthropic announced a $50bn investment in computing infrastructure on Wednesday that will include new datacenters in Texas and New York.
+“We’re getting closer to AI that can accelerate scientific discovery and help solve complex problems in ways that weren’t possible before,” Anthropic’s CEO, Dario Amodei, said in a press release.
+Building the massive information warehouses takes an average of two years in the US and requires copious amounts of energy to fuel the facilities. The company, maker of the AI chatbot Claude, popular with businesses adopting AI, said in a statement that the “scale of this investment is necessary to meet the growing demand for Claude from hundreds of thousands of businesses while keeping our research at the frontier”. Anthropic said its projects will create about 800 permanent jobs and 2,400 construction jobs.
+The startup said it is working with London-based Fluidstack to build the new computing facilities to power its AI systems. It didn’t disclose their exact locations or what source of electricity the facilities will need.
+The latest deals show that the tech industry is moving forward on huge spending to build energy-hungry AI infrastructure, despite lingering financial concerns about a bubble, environmental considerations and the political effects of fast-rising electricity bills in the communities where they’re constructed. Another company, cryptocurrency-mining datacenter developer TeraWulf, has previously revealed it was working with Fluidstack on Google-backed datacenter projects in Texas and New York, on the shore of Lake Ontario.
+Microsoft also on Wednesday announced a new datacenter under construction in Atlanta, Georgia, describing it as connected to another in Wisconsin to form a “massive supercomputer” running on hundreds of thousands of Nvidia chips to power AI technology.
+A report last month from TD Cowen said that the leading cloud computing providers leased a “staggering” amount of US datacenter capacity in the third fiscal quarter of this year, amounting to more than 7.4GW of energy, more than all of last year combined.
+The tech industry’s huge amount of spending on computing infrastructure for AI startups that aren’t yet profitable has fueled concerns about an AI investment bubble.
+Sign up to TechScape
+A weekly dive in to how technology is shaping our lives
+after newsletter promotion
+Investors have closely watched a series of intertwined deals over recent months between top AI developers such as OpenAI and Anthropic and the companies building the costly computer chips and datacenters needed to power their AI products. Anthropic said it will continue to “prioritize cost-effective, capital-efficient approaches” to scaling up its business.

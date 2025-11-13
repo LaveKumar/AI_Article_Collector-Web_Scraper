@@ -1,0 +1,31 @@
+Title: Australian government could explore using AI for cabinet submissions despite security concerns
+
+
+
+
+Finance minister Katy Gallagher says the public service is building its own artificial intelligence program and spruiks productivity benefits
+Follow our Australia news live blog for latest updates
+Get our breaking news email, free app or daily news podcast
+The federal government could “explore” using artificial intelligence programs to write sensitive cabinet submissions or business cases, as part of a major initiative to embed AI across the public service, despite concerns about the technology increasing risks of security and data breaches.
+The finance minister, Katy Gallagher, also announced on Wednesday the public service would build its own special AI program for government workers, spruiking productivity benefits for rolling out generative programs such as ChatGPT, Copilot and Gemini to departments.
+While many public servants said trials of AI had helped their work, others voiced alarm at the poor quality and inaccuracies in AI-generated work, the potential slashing of entry-level jobs, and public fears about automated decision-making in the wake of the robodebt scandal.
+“Interviews with Australian government agencies highlighted that women could be disproportionately impacted as they currently comprise most APS administration staff,” stated a government report into a trial of Microsoft Copilot.
+Gallagher, also minister for the public service, told a conference the government wanted to see AI “widely taken up across government in every department” in a bid to “take hold of the opportunities that AI presents”.
+Gallagher also launched a “whole of government AI plan”, and results from a six-month trial of Microsoft’s Copilot across government.
+Sign up: AU Breaking News email
+The report’s main finding was: “There are clear benefits to the adoption of generative AI but also challenges with adoption and concerns that need to be monitored.”
+Surveys found most trial participants were positive, noting management and executives specifically had reported productivity benefits and saving up to an hour each day through AI helping summarise information, write first drafts, or search for information.
+Some 69% said it helped them work faster and 61% said it improved the quality of their work.
+However, a range of negatives were also reported, including “inaccuracy” of AI output, with 60% of participants saying they had to make “moderate to significant” edits to the AI-generated work. There were also concerns about “Copilot’s potential unpredictability and lack of contextual knowledge”.
+The AI plan sets out a goal “that every public servant will have training and access to generative AI tools”. It says the to-be-developed GovAI Chat program will be rolled out widely, expected to be in the first part of 2026, but the government will also develop guidance on public servants using public platforms, such as ChatGPT, Claude and Gemini, to handle government information up to the “official” level of classification.
+That included “novel” suggestions from participants to use AI for assessing documents, writing public documents, and “drafting content for business cases and Cabinet submissions”. The report included these ideas under a heading of “opportunities to further explore use cases”.
+But the Copilot report also raised security issues with data, with instances of “Copilot inappropriately accessing sensitive information”.
+Sign up to Breaking News Australia
+Get the most important news as it breaks
+after newsletter promotion
+“Use of Copilot enabled some participants to access documents that they should not have had permission to access. Trial participants raised instances where Copilot surfaced sensitive data that staff had not classified or stored appropriately,” it said.
+“This was largely because their organisation had not properly assured the security and storage of some instances of data and information before adopting Copilot. Without the appropriate data infrastructure and governance in place, the use of Copilot may further exacerbate risks of data and security breaches in the APS.”
+The report also noted public expectations around managing data.
+“In the wake of the Royal Commission into the Robodebt Scheme, public scrutiny around the APS’ use of technology and automation to support decision-making is particularly high,” it stated.
+Gallagher pledged ongoing consultation with staff and unions about job changes, stressing that the government “does not view widespread AI adoption across the APS as a way of replacing people”. The Community and Public Sector Union was contacted for comment.
+Vivek Puthucode, Microsoft’s general manager of public sector, backed the government’s plan and said the new technology could “help improve service delivery, strengthen policy outcomes and make government more responsive to community needs”.

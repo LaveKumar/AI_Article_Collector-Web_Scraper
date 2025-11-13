@@ -1,0 +1,20 @@
+Title: Tech companies and UK child safety agencies to test AI tools’ ability to create abuse images
+
+
+
+
+New law will allow technology to be examined and ensure tools have safeguards to stop creation of material
+Tech companies and child protection agencies will be given the power to test whether artificial intelligence tools can produce child abuse images under a new UK law.
+The announcement was made as a safety watchdog revealed that reports of AI-generated child sexual abuse material [CSAM] have more than doubled in the past year from 199 in 2024 to 426 in 2025.
+Under the change, the government will give designated AI companies and child safety organisations permission to examine AI models – the underlying technology for chatbots such as ChatGPT and image generators such as Google’s Veo 3 – and ensure they have safeguards to prevent them from creating images of child sexual abuse.
+Kanishka Narayan, the minister for AI and online safety, said the move was “ultimately about stopping abuse before it happens”, adding: “Experts, under strict conditions, can now spot the risk in AI models early.”
+The changes have been introduced because it is illegal to create and possess CSAM, meaning that AI developers and others cannot create such images as part of a testing regime. Until now, the authorities have had to wait until AI-generated CSAM is uploaded online before dealing with it. This law is aimed at heading off that problem by helping to prevent the creation of those images at source.
+The changes are being introduced by the government as amendments to the crime and policing bill, legislation which is also introducing a ban on possessing, creating or distributing AI models designed to generate child sexual abuse material.
+This week Narayan visited the London base of Childline, a helpline for children, and listened to a mock-up of a call to counsellors featuring a report of AI-based abuse. The call portrayed a teenager seeking help after he had been blackmailed by a sexualised deepfake of himself, constructed using AI.
+“When I hear about children experiencing blackmail online, it is a source of extreme anger in me and rightful anger amongst parents,” he said.
+The Internet Watch Foundation, which monitors CSAM online, said reports of AI-generated abuse material – such as a webpage that may contain multiple images – had more than doubled so far this year. Instances of category A material – the most serious form of abuse – rose from 2,621 images or videos to 3,086.
+Girls were overwhelmingly targeted, making up 94% of illegal AI images in 2025, while depictions of newborns to two-year-olds rose from five in 2024 to 92 in 2025.
+Kerry Smith, the chief executive of the Internet Watch Foundation, said the law change could “a vital step to make sure AI products are safe before they are released”.
+“AI tools have made it so survivors can be victimised all over again with just a few clicks, giving criminals the ability to make potentially limitless amounts of sophisticated, photorealistic child sexual abuse material,” she said. “Material which further commodifies victims’ suffering, and makes children, particularly girls, less safe on and off line.”
+Childline also released details of counselling sessions where AI has been mentioned. AI harms mentioned in the conversations include: using AI to rate weight, body and looks; chatbots dissuading children from talking to safe adults about abuse; being bullied online with AI-generated content; and online blackmail using AI-faked images.
+Between April and September this year, Childline delivered 367 counselling sessions where AI, chatbots and related terms were mentioned, four times as many as in the same period last year. Half of the mentions of AI in the 2025 sessions were related to mental health and wellbeing, including using chatbots for support and AI therapy apps.

@@ -25,21 +25,6 @@ Here’s what this project accomplishes 👇
 - **BeautifulSoup (bs4)** – for parsing HTML content  
 - **OS & Datetime** – for file handling and folder organization  
 
----
-
-## 📂 Folder Structure
-
-AI_Article_Collector-Web_Scraper-
-├── Saved_Articles/           # Stores all scraped articles
-│   └── .gitkeep              # Placeholder to keep the folder tracked
-├── main.py                   # Main Python script
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-
-
-Each folder inside `Saved_Articles/` is automatically generated with the current timestamp, ensuring every scraping session is stored separately.
-
----
 
 ## ⚙️ How to Run
 

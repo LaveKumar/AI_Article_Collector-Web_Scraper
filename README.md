@@ -31,16 +31,12 @@ Here’s what this project accomplishes 👇
 
 AI_Article_Collector-Web_Scraper-
 │
-├── Saved_Articles/
-│ ├── 12_45_13_11_2025/
-│ │ ├── article_0.txt
-│ │ ├── article_1.txt
-│ │ └── ...
+├── Saved_Articles/ # Stores all scraped articles
+│ └── .gitkeep # Placeholder to keep the folder tracked
 │
-├── main.py
-├── requirements.txt
-└── README.md
-
+├── main.py # Main Python script
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 Each folder inside `Saved_Articles/` is automatically generated with the current timestamp, ensuring every scraping session is stored separately.
 
